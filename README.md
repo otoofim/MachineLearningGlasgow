@@ -14,7 +14,7 @@ For task 1, possible solutions could be:
 
 Also for task 2 these algorithms can be used:
 
-1. Logestic regression
+1. Logestic regression (Accuracy:0.925)
 2. KNN
 3. Support vector machine [Tutorial](https://www.youtube.com/watch?v=g8D5YL6cOSE)
 4. Naive Bayes
@@ -26,4 +26,4 @@ Also for task 2 these algorithms can be used:
 
 1. Pre-processing the data has shown a significant improvement on performance. So we might start with some pre-processing. I try to do it by the end of this week. So, we can do rest of the experiments with pre-processed data. I will also put the steps that I have done for pre-processing.
 2. Implement and compare the results of the algorithms and pick the best ones to win the competition. :D
-3. A latex doc is created and can be accessed via: [this link](https://www.sharelatex.com/9837964663nwzhrnkcgfrw) 
+3. A latex doc is created and can be edited via [this link](https://www.sharelatex.com/9837964663nwzhrnkcgfrw).
