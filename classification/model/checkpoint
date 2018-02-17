@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt-800"
+all_model_checkpoint_paths: "model.ckpt-720"
+all_model_checkpoint_paths: "model.ckpt-721"
+all_model_checkpoint_paths: "model.ckpt-760"
+all_model_checkpoint_paths: "model.ckpt-761"
+all_model_checkpoint_paths: "model.ckpt-800"
